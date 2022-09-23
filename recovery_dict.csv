@@ -1,4 +1,4 @@
-registration_number,center_name,inspection_status,is_regulated
-4235,Recovery Foundation,Passed,Non Regulated
-4234,New Horizons,Failed,Non Regulated
-4231,Renewable Light,Passed,Regulated
+registration_number,center_name,cost,inspection_status
+4235,Recovery Foundation,"$10,000",Passed
+4234,New Horizons,"$15,000",Failed
+4231,Renewable Light,"$11,000",Passed
